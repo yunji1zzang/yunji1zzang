@@ -37,19 +37,14 @@ Here are some ideas to get you started:
  - #### React Spring boot Proejct
 
 ---
-![youngsikwon's github stats](https://github-readme-stats.vercel.app/api?username=youngsikwon&show_icons=true)
-[![youngsikwon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=youngsikwon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/youngsikwon)
+![youngsikwon's github stats](https://github-readme-stats.vercel.app/api?username=yunji11zzzang&show_icons=true)
+[![youngsikwon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yunji11zzzang&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yunji11zzzang)
 ---
-### Online Judge 💻
 
-* BOJ: [ddtlr3200](https://www.acmicpc.net/user/ddtlr3200)
-  * solvedac: [ddtlr3200](https://solved.ac/profile/ddtlr3200)
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=ddtlr3200)](https://solved.ac/ddtlr3200)
   
   ### Contacts 📫
 
 * Github Repo Issue <p align='center'>
-*  Instagram : DM : <a href="https://www.instagram.com/06_youngsik/"><img height="30" src="https://github.com/youngsikwon/youngsikwon/blob/master/instagram.svg?raw=true"></a>&nbsp;&nbsp;
+*  Instagram : DM : <a href="https://www.instagram.com/06_youngsik/"><img height="30" src="https://github.com/yunji11zzzang/yunji11zzzang/blob/master/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 </p><br/>
 
